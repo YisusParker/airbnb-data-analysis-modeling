@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: Intro
+chapters:
+  - file: notebooks/Eda
+  - file: notebooks/Modelos
+  - file: notebooks/ModeloPropuesto
+  - file: notebooks/Conclusiones
+  - file: notebooks/Referencias
